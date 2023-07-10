@@ -1,0 +1,3 @@
+[submodule "array-rust"]
+	path = array-rust
+	url = https://github.com/LIBRASVII/array-rust.git
